@@ -1,1 +1,1 @@
-# Mall_E-Segmentation_Group-14
+# Customer-Segmentation_Group-14
